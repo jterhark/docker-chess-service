@@ -153,4 +153,33 @@ sudo docker inspect {container-id} | grep "IPAddress"
 Once you have the ip address, calls to the service can be made through postman using ```8080``` as the port. Ex ```172.17.0.1:8080\chess\newgame```.
 
 
+###Deploy to AWS ECS via Fargate
+From the fargate creation page, enter your repository information and desired configuration.
+![one](img/1.png)
+
+![two](img/2.png)
+
+Click update and next. Here define the service and make sure application load balancer is checked. If the defaults are not want you want, hit the edit button and change the values.
+![three](img/3.png)
+
+Click next. Here define the cluster you would like to use. The defaults are OK for this use case.
+![four](img/4.png)
+
+Once everything has been configured to your liking, click Create
+![five](img/5.png)
+
+Wait for aws to complete the setup and deployment of your cluster and tasks. When done, click the view service button.
+![six](img/6.png)
+
+Click on the service name
+![seven](img/7.png)
+
+Click on the target group name
+![eight](img/8.png)
+
+Go to load balancers in the left panel and scroll down to see the DNS name. This is the url that can be used to access the chess VAP.
+![nine](img/9.png)
+
+Requests can then be made using Postman.
+![ten](img/10.png)
 ##OSv + Capstan
