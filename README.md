@@ -154,6 +154,9 @@ Once you have the ip address, calls to the service can be made through postman u
 
 
 ###Deploy to AWS ECS via Fargate
+Images can be found in ```/img``` if they do not show up.
+If I can afford it, my chess VAP will be up at ```EC2Co-EcsEl-1DAQYZMXNBZSD-449354511.us-east-1.elb.amazonaws.com:8080/chess/newgame``` for testing until April 7, 2019. 
+
 From the fargate creation page, enter your repository information and desired configuration.
 ![one](img/1.png)
 
