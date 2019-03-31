@@ -134,12 +134,13 @@ public class FenNotation implements DataImporter, DataExporter
 
     private void importEnPassantState(String enPassantState, Chessboard chessboard, Game game) throws ReadGameError
     {
+
         if (!FIELD_EMPTY.equals(enPassantState) && enPassantState.length() == 2)
         {
             try
             {
                 Squares sqX = Squares.valueOf(SQUARE_PREFIX + enPassantState.substring(0, 1).toUpperCase());
-                Squares sqY = Squares.valueOf(SQUARE_PREFIX + enPassantState.substring(1, 2).toUpperCase());       
+                Squares sqY = Squares.valueOf(SQUARE_PREFIX + enPassantState.substring(1, 2).toUpperCase());
                 if (null == sqY)
                 {
                     throw new ReadGameError(Settings.lang("invalid_fen_state"), enPassantState);
@@ -156,7 +157,7 @@ public class FenNotation implements DataImporter, DataExporter
                         throw new ReadGameError(Settings.lang("invalid_fen_state"), enPassantState);
                 }
                 Square sq = chessboard.getSquare(sqX, sqY);
-                Piece piece = sq.getPiece(); 
+                Piece piece = sq.getPiece();
                 if (null != piece && Pawn.class == piece.getClass())
                 {
                     game.getChessboard().setTwoSquareMovedPawn((Pawn)sq.getPiece());

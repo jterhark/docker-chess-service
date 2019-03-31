@@ -64,7 +64,8 @@ public class HumanPlayer extends ComputerPlayer
     @Override
     public Piece getPromotionPiece(Chessboard chessboard) {
         String colorSymbol = color.getSymbolAsString().toUpperCase();
-        String newPiece = JChessApp.getJavaChessView().showPawnPromotionBox(colorSymbol); //return name of new piece
+        //String newPiece = JChessApp.getJavaChessView().showPawnPromotionBox(colorSymbol); //return name of new piece
+        String newPiece = "Pawn";
         return PieceFactory.getPiece(chessboard, colorSymbol, newPiece, this);
     }
 

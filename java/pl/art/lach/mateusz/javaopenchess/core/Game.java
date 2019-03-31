@@ -547,7 +547,7 @@ public class Game extends JPanel implements ComponentListener, MouseListener
             return false;
         }
 
-        doComputerMove();
+//        doComputerMove();
         return true;
     }
 

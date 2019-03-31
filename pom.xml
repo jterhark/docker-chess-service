@@ -196,10 +196,10 @@
                             <addClasspath>true</addClasspath>
                         </manifest>
                     </archive>
-                    <includes>
-                        <include>log4j.properties</include>
-                        <include>**/config.txt</include>
-                    </includes>                    
+                    <!--<includes>-->
+                        <!--<include>log4j.properties</include>-->
+                        <!--<include>**/config.txt</include>-->
+                    <!--</includes>                    -->
                 </configuration>
             </plugin>
             <plugin>
@@ -259,7 +259,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <fork>true</fork>
-                    <mainClass>${start-class}</mainClass>
+                    <!--<mainClass>${start-class}</mainClass>-->
                 </configuration>
                 <executions>
                     <execution>
@@ -339,7 +339,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>3.0.1</version>
+                <version>3.0.0</version>
                 <configuration>
                     <configLocation>config/sun_checks.xml</configLocation>
                 </configuration>

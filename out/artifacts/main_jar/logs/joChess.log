@@ -72,3 +72,580 @@
 2019-03-31 01:16:22 Settings [DEBUG] Locale: en
 2019-03-31 01:16:22 Settings [DEBUG] Locale: en
 2019-03-31 01:16:22 Game [DEBUG] next move, active player: Human, color: BLACK, type: LOCAL_USER
+2019-03-31 16:34:40 Settings [DEBUG] Locale: en
+2019-03-31 16:34:40 Settings [DEBUG] Locale: en
+2019-03-31 16:34:40 Settings [DEBUG] Locale: en
+2019-03-31 16:34:40 Settings [DEBUG] Locale: en
+2019-03-31 16:34:40 Settings [DEBUG] Locale: en
+2019-03-31 16:34:40 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 GUI [DEBUG] THEME: default
+2019-03-31 16:34:41 Settings [DEBUG] Locale: en
+2019-03-31 16:34:41 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 Settings [DEBUG] Locale: en
+2019-03-31 16:35:10 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:35:10 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:35:10 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:35:10 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:35:10 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:35:19 Settings [DEBUG] Locale: en
+2019-03-31 16:35:19 Settings [DEBUG] Locale: en
+2019-03-31 16:35:19 Settings [DEBUG] Locale: en
+2019-03-31 16:35:19 Settings [DEBUG] Locale: en
+2019-03-31 16:35:19 Settings [DEBUG] Locale: en
+2019-03-31 16:35:19 Settings [DEBUG] Locale: en
+2019-03-31 16:35:19 Settings [DEBUG] Locale: en
+2019-03-31 16:35:19 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:35:19 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:35:19 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:35:19 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:35:19 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:35:19 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:35:19 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:35:19 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:35:19 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:35:19 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:35:19 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:35:39 Settings [DEBUG] Locale: en
+2019-03-31 16:35:39 Settings [DEBUG] Locale: en
+2019-03-31 16:35:39 Settings [DEBUG] Locale: en
+2019-03-31 16:35:39 Settings [DEBUG] Locale: en
+2019-03-31 16:35:39 Settings [DEBUG] Locale: en
+2019-03-31 16:35:39 Settings [DEBUG] Locale: en
+2019-03-31 16:35:39 Settings [DEBUG] Locale: en
+2019-03-31 16:35:39 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:35:39 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:35:39 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:35:39 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:35:39 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:35:39 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:35:39 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:35:39 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:35:39 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:35:39 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:35:39 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:35:39 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:35:39 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:35:39 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:35:39 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:35:39 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:35:39 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:35:39 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:02 Settings [DEBUG] Locale: en
+2019-03-31 16:36:02 Settings [DEBUG] Locale: en
+2019-03-31 16:36:02 Settings [DEBUG] Locale: en
+2019-03-31 16:36:02 Settings [DEBUG] Locale: en
+2019-03-31 16:36:02 Settings [DEBUG] Locale: en
+2019-03-31 16:36:02 Settings [DEBUG] Locale: en
+2019-03-31 16:36:02 Settings [DEBUG] Locale: en
+2019-03-31 16:36:02 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:02 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:02 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:02 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:02 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:02 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:02 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:02 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:02 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:02 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:02 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:02 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:02 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:02 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:02 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:02 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:02 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:02 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:02 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:02 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:02 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:02 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:11 Settings [DEBUG] Locale: en
+2019-03-31 16:36:11 Settings [DEBUG] Locale: en
+2019-03-31 16:36:11 Settings [DEBUG] Locale: en
+2019-03-31 16:36:11 Settings [DEBUG] Locale: en
+2019-03-31 16:36:11 Settings [DEBUG] Locale: en
+2019-03-31 16:36:11 Settings [DEBUG] Locale: en
+2019-03-31 16:36:11 Settings [DEBUG] Locale: en
+2019-03-31 16:36:11 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:11 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:11 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:11 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:11 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:11 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:11 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:11 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:11 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:11 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:11 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:11 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:11 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:11 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:11 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:11 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:11 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:11 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:11 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:11 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:11 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:11 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:11 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:11 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:11 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:11 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:25 Settings [DEBUG] Locale: en
+2019-03-31 16:36:25 Settings [DEBUG] Locale: en
+2019-03-31 16:36:25 Settings [DEBUG] Locale: en
+2019-03-31 16:36:25 Settings [DEBUG] Locale: en
+2019-03-31 16:36:25 Settings [DEBUG] Locale: en
+2019-03-31 16:36:25 Settings [DEBUG] Locale: en
+2019-03-31 16:36:25 Settings [DEBUG] Locale: en
+2019-03-31 16:36:25 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:25 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:25 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:25 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:25 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:25 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:25 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:25 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:25 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:25 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:25 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:25 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:25 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:25 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:25 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:25 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:27 Settings [DEBUG] Locale: en
+2019-03-31 16:36:27 Settings [DEBUG] Locale: en
+2019-03-31 16:36:27 Settings [DEBUG] Locale: en
+2019-03-31 16:36:27 Settings [DEBUG] Locale: en
+2019-03-31 16:36:27 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: d7-d6
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 100
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 4 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 Settings [DEBUG] Locale: en
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: d7-d6
+2019-03-31 16:36:28 MovesHistory [DEBUG] Processed following move in PGN: Ke1-f2
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 100
+2019-03-31 16:36:28 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 4 active_y: 2
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 5 active_y: 8
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:28 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:28 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: d7-d6
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: Ke1-f2
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: Ng8-h6
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 100
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 103
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 4 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 5 active_y: 8
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 7 active_y: 1
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 Settings [DEBUG] Locale: en
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: d7-d6
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: Ke1-f2
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: Ng8-h6
+2019-03-31 16:36:29 MovesHistory [DEBUG] Processed following move in PGN: Ra1-a4
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 100
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 103
+2019-03-31 16:36:29 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 4 active_y: 2
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 5 active_y: 8
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 7 active_y: 1
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 1 active_y: 8
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:29 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:29 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: d7-d6
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Ke1-f2
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Ng8-h6
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Ra1-a4
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Nh6-g8
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 100
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 103
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 4 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 5 active_y: 8
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 7 active_y: 1
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 8
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 8 active_y: 3
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 Settings [DEBUG] Locale: en
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: d7-d6
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Ke1-f2
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Ng8-h6
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Ra1-a4
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: Nh6-g8
+2019-03-31 16:36:30 MovesHistory [DEBUG] Processed following move in PGN: b5-b6
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 100
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 103
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:30 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 4 active_y: 2
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 5 active_y: 8
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 7 active_y: 1
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 8
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 8 active_y: 3
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 2 active_y: 4
+2019-03-31 16:36:30 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:30 Chessboard [DEBUG] active_x: 1 active_y: 4
+2019-03-31 16:36:31 Settings [DEBUG] Locale: en
+2019-03-31 16:36:31 Settings [DEBUG] Locale: en
+2019-03-31 16:36:31 Settings [DEBUG] Locale: en
+2019-03-31 16:36:31 Settings [DEBUG] Locale: en
+2019-03-31 16:36:31 Settings [DEBUG] Locale: en
+2019-03-31 16:36:31 Settings [DEBUG] Locale: en
+2019-03-31 16:36:31 Settings [DEBUG] Locale: en
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: a2-a4
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: b7-b5
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: a4xb5
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: c7-c6
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: f2-f3
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: e7-e5
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: h2-h4
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: d7-d6
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: Ke1-f2
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: Ng8-h6
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: Ra1-a4
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: Nh6-g8
+2019-03-31 16:36:31 MovesHistory [DEBUG] Processed following move in PGN: b5-b6
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 99
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 102
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 100
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 101
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 103
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 97
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 104
+2019-03-31 16:36:31 MovesHistory [DEBUG] isMoveCorrect/sign: 98
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 1 active_y: 5
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 3 active_y: 2
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 6 active_y: 7
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 5 active_y: 2
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 4 active_y: 2
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 5 active_y: 8
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 7 active_y: 1
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 1 active_y: 8
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 8 active_y: 3
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Human, color: WHITE, type: LOCAL_USER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 2 active_y: 4
+2019-03-31 16:36:31 Game [DEBUG] next move, active player: Computer, color: BLACK, type: COMPUTER
+2019-03-31 16:36:31 Chessboard [DEBUG] active_x: 1 active_y: 4
