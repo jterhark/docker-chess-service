@@ -1,4 +1,4 @@
 base: cloudius/osv-openjdk
-cmdline: /java.so -jar /main.jar
+cmdline: export _JAVA_OPTIONS="-Xms1024m -Xmx1024m" && /java.so -jar /main.jar
 files:
   /main.jar: out/artifacts/main_jar/main.jar
