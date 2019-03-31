@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="main:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4705691-05e9-48d3-a3be-351f72bc726a" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/ChessController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/ChessController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/EchoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/MovePGNRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/MoveRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/MoveResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/NewGameRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/NewGameResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/RequestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/ResponseClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/Session.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/API/SpringAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CHANGELOG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/LICENSE of log4j library.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/JChessApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/JChessView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/JChessView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/JChessView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/Chessboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/Colors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/Game$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/GameBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/GameClock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/Squares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/ai/AI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/ai/AIFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/ai/joc_ai/Level1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/ai/joc_ai/Level2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/DataExporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/DataImporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/DataTransferFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/DataTransferFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/TransferFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/implementations/FenNotation$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/implementations/FenNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/data_transfer/implementations/PGNNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/exceptions/ReadGameError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/helpers/Pieces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/moves/Castling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/moves/Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/moves/MovesHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/moves/NotEditableTableModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/KingState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/Piece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/PieceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/implementation/Bishop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/implementation/King.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/implementation/Knight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/implementation/Pawn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/implementation/Queen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/implementation/Rook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/traits/behaviors/Behavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/traits/behaviors/implementation/BishopBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/traits/behaviors/implementation/KingBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/traits/behaviors/implementation/KnightBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/traits/behaviors/implementation/LongRangePieceBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/traits/behaviors/implementation/PawnBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/pieces/traits/behaviors/implementation/RookBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/players/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/players/PlayerFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/players/PlayerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/players/PlayerType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/players/implementation/ComputerPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/players/implementation/HumanPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/core/players/implementation/NetworkPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/panels/HistoryButtons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/panels/LocalSettingsView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/views/chessboard/ChessboardMouseView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/views/chessboard/ChessboardView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/views/chessboard/implementation/graphic2D/Chessboard2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/views/chessboard/implementation/graphic2D/Pieces2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/DrawLocalSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/DrawNetworkSettings$ClientOptionsPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/DrawNetworkSettings$ServerOptionsPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/DrawNetworkSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/JChessAboutBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/JChessTabbedPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/NewGameWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/PawnPromotionWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/TabbedPaneIcon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/ThemeChooseWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/components/ComputerLevelSlider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/resources/JChessAboutBox.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/resources/JChessAboutBox_pl_PL.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/resources/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/display/windows/resources/about.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/Chat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/Commands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/ConnectionInformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/ServerClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/network/Table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/JChessApp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/JChessView.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/JChessView_pl_PL.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/about.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/busy-icon9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/busyicons/idle-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/i18n/main.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/i18n/main_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/i18n/main_pl_PL.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/resources/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/server/ConnectionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/server/Console.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/server/SClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/server/Table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/.directory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-B100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-B25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-B55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-B70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-W100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-W25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-W55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Bishop-W70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-B100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-B25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-B55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-B70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-W100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-W25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-W55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/King-W70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-B100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-B25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-B55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-B70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-W100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-W25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-W55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Knight-W70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-B100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-B25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-B55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-B70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-W100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-W25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-W55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Pawn-W70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-B100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-B25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-B55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-B70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-W100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-W25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-W55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Queen-W70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-B100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-B25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-B55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-B70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-W100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-W25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-W55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/Rook-W70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/able_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/add-tab-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/chessboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/clicked-add-tab-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/preview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/theme/default/images/sel_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/GUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/GameModes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/GameTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/MD5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/Settings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/SettingsFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/resources/GUI.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/art/lach/mateusz/javaopenchess/utils/resources/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ChessTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/joChess.log" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/README.md">
+                <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                  <state split_layout="SPLIT">
+                    <first_editor relative-caret-position="1760">
+                      <caret line="152" column="148" selection-start-line="152" selection-start-column="148" selection-end-line="152" selection-end-column="148" />
+                    </first_editor>
+                    <second_editor />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/API/EchoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/API/ChessController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/API/MovePGNRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7238">
+              <caret line="338" column="20" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Chessboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="215" selection-start-line="215" selection-end-line="215" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7505#7506#0" expanded="true" />
+                <element signature="e#7543#7544#0" expanded="true" />
+                <element signature="e#8290#8291#0" expanded="true" />
+                <element signature="e#8342#8343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1532">
+              <caret line="599" column="43" selection-start-line="599" selection-start-column="43" selection-end-line="599" selection-end-column="43" />
+              <folding>
+                <element signature="e#22667#22668#0" expanded="true" />
+                <element signature="e#22695#22696#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ChessTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/API/SpringAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/API/NewGameResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ai</find>
+      <find>log4</find>
+      <find>parent</find>
+      <find>session.pgnBoard</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Echo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/Echo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/Capstanfile" />
+        <option value="$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/MoveRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/NewGameRequest.java" />
+        <option value="$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/data_transfer/implementations/FenNotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/MoveResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/NewGameResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/MoveFenRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/MovePGNRequest.java" />
+        <option value="$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/players/implementation/HumanPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/SpringAPI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ChessTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/EchoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/API/ChessController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2325" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="main_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="ChessController.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554075176493" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringAPI">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessTest.selfPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChessTest" />
+      <option name="METHOD_NAME" value="selfPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessTest.testHeartbeat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChessTest" />
+      <option name="METHOD_NAME" value="testHeartbeat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessTest.testNewGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChessTest" />
+      <option name="METHOD_NAME" value="testNewGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAPI" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="API.SpringAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringAPI" />
+        <item itemvalue="JUnit.ChessTest.testHeartbeat" />
+        <item itemvalue="JUnit.ChessTest.testNewGame" />
+        <item itemvalue="JUnit.ChessTest.selfPlay" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4705691-05e9-48d3-a3be-351f72bc726a" name="Default Changelist" comment="" />
+      <created>1553930450721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553930450721</updated>
+      <workItem from="1553930452950" duration="4290000" />
+      <workItem from="1553991467591" duration="14118000" />
+      <workItem from="1554014174336" duration="22388000" />
+    </task>
+    <task id="LOCAL-00001" summary="asdf">
+      <created>1554013042831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554013042831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docker">
+      <created>1554016788164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554016788164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docker">
+      <created>1554016827399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554016827399</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docker">
+      <created>1554017318511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554017318511</updated>
+    </task>
+    <task id="LOCAL-00005" summary="docker">
+      <created>1554018685216</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554018685216</updated>
+    </task>
+    <task id="LOCAL-00006" summary="docker">
+      <created>1554019129649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554019129649</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1554068466404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554068466404</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 15h 57m 47s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 15h 58m 49s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 15h 59m 11s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 16h 00m 55s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 16h 01m 04s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 16h 02m 46s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 16h 04m 33s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_selfPlay - 2019.03.31 at 16h 05m 35s.xml">
+      <configuration name="ChessTest.selfPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_testNewGame - 2019.03.31 at 16h 23m 42s.xml">
+      <configuration name="ChessTest.testNewGame" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChessTest_testHeartbeat - 2019.03.31 at 16h 23m 52s.xml">
+      <configuration name="ChessTest.testHeartbeat" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40796000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.13326226" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.13326226" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asdf" />
+    <MESSAGE value="docker" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Game.java</url>
+          <line>557</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Game.java</url>
+          <line>538</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Game.java</url>
+          <line>651</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="g.chessboard" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Sessions.get(&quot;ec75a4c5-85d7-4eb3-a46e-67a7a80c89c5&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Sessions.get(&quot;832b6d3c-e953-4a38-ba8a-be9c934c7149&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Session.get</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Sessions.get(&quot;d41ce20e-9f76-4d38-8ca5-9b48410f0b43&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sessions</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>session.board.split(&quot; &quot;)[0c]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>session.board.split(&quot; &quot;)[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.activePlayer</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sq.getPiece().getPlayer()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/data_transfer/DataImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/data_transfer/DataTransferFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/data_transfer/DataExporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/JChessApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/ai/AIFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/players/implementation/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/maven-model-builder-3.3.9.jar!/org/apache/maven/model/pom-4.0.0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/SpringController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="766">
+          <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capstanfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/MoveRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/NewGameRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/data_transfer/implementations/FenNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="325" column="12" selection-start-line="325" selection-start-column="12" selection-end-line="325" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/data_transfer/implementations/PGNNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/MoveResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/JChessView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="542" column="18" selection-start-line="542" selection-start-column="18" selection-end-line="542" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#35335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/pieces/PieceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/players/implementation/HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="68" column="70" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7238">
+          <caret line="338" column="20" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Chessboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7505#7506#0" expanded="true" />
+            <element signature="e#7543#7544#0" expanded="true" />
+            <element signature="e#8290#8291#0" expanded="true" />
+            <element signature="e#8342#8343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pl/art/lach/mateusz/javaopenchess/core/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1532">
+          <caret line="599" column="43" selection-start-line="599" selection-start-column="43" selection-end-line="599" selection-end-column="43" />
+          <folding>
+            <element signature="e#22667#22668#0" expanded="true" />
+            <element signature="e#22695#22696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ChessTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/MovePGNRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1760">
+            <caret line="152" column="148" selection-start-line="152" selection-start-column="148" selection-end-line="152" selection-end-column="148" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/EchoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/SpringAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/NewGameResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/API/ChessController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>main:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
