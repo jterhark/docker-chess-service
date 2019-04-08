@@ -1,0 +1,7 @@
+Hi Jake:
+it is a superbly done homework: nicely written documentation, well-commented code, good tests, and you even implemented a mysql session store! Everything works, I could easily build a docker image and run it locally. You can shut down your AWS instance, unless you want to keep it for personal reasons (e.g., job search).
+
+You haven't done osv, but it is ok - you earned 5+2=7%.
+
+Thank you,
+Mark
