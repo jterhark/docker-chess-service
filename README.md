@@ -1,12 +1,12 @@
-#HW4 - Jake TerHark
-##Design
+# HW4 - Jake TerHark
+## Design
 I wanted to make things easy should I have chosen to implement a mysql session store, so my design tries to be as stateless as possible.
 Upon a new game request, a unique session id is generated and a new game is built according to the ```newgame``` request parameters.
 These parameters and the PGN representation of the board is saved in the Session Store.
 When each subsequent request comes in, the game is rebuilt from the PGN string in the session store, thus decoupling the session store from the game.
 This also means that the quit game endpoint is not needed. Since there is no connection, any game can be resumed at any time and there is a complete log of all games.
 
-##API Documentation
+## API Documentation
 | route     | purpose | params |  
 | --------|---------|-------|
 | ```/chess/newgame```  | Create a new game   | color: ```white``` or ```black```, the color you want to be <br>level: ```range(1-3)```, the level of the AI|
@@ -14,8 +14,8 @@ This also means that the quit game endpoint is not needed. Since there is no con
 | ```/chess/movePgn``` | Computer move endpoint | id: Session<br>pgn: board in PGN format |
 | ```/echo``` | Echo endpoint used for heartbeat | content: ```string``` (Optional) 
 
-###```/chess/newgame```
-####Sample Request
+### ```/chess/newgame```
+#### Sample Request
 ```json
 {
 	"color": "white",
@@ -23,7 +23,7 @@ This also means that the quit game endpoint is not needed. Since there is no con
 }
 ```
 
-####Sample Response
+#### Sample Response
 ```json
 {
     "id": "fcad60c7-a790-4ffe-8094-ebf55cdfe20e",
@@ -57,8 +57,8 @@ This also means that the quit game endpoint is not needed. Since there is no con
 ```
 
 
-###```/chess/move```
-####Sample Request
+### ```/chess/move```
+#### Sample Request
 ```json
 {
 	"id": "fcad60c7-a790-4ffe-8094-ebf55cdfe20e",
@@ -67,7 +67,7 @@ This also means that the quit game endpoint is not needed. Since there is no con
 }
 ```
 
-####Sample Response
+#### Sample Response
 ```json
 {
     "status": "ok",
@@ -99,9 +99,9 @@ This also means that the quit game endpoint is not needed. Since there is no con
 }
 ```
 
-####```/chess/movePgn```
+#### ```/chess/movePgn```
 Not meant to be interacted with directly
-####Sample Request
+#### Sample Request
 ```json
 {
     "id": "fcad60c7-a790-4ffe-8094-ebf55cdfe20e",
@@ -109,39 +109,39 @@ Not meant to be interacted with directly
 }
 ```
 
-####Sample Resonse
+#### Sample Resonse
 Same as ```/move``` response
 
-####```/echo```
-####Sample Request
+#### ```/echo```
+#### Sample Request
 ```hello```
 
-####Sample Response
+#### Sample Response
 ```hello```
 
-##Building and Testing
-###Locally in Intellij
+## Building and Testing
+### Locally in Intellij
 Import the project into intellij and run ```main``` in ```src/main/API/SpringAPI```.
 
-###Build Uber Jar
+### Build Uber Jar
 If no artifacts are currently configured in Intellij, go to ```File->Project Structure->Artifacts->Add->Jar->From Modules with Dependencies``` .
 Select ```SpringAPI``` as the main class.
 
 Once the artifact is setup, execute ```Build->Build Artifacts->Build```.
 This will place ```main.jar``` in ```out/artifacts/main_jar```.
 
-###Testing
+### Testing
 Tests are located in ```src/test/java/ChessTest.java```. Run any test or all. The ```selfPlay()``` test allows the VAP to play against itself.
 
 
-##Docker
-###Build From Source
+## Docker
+### Build From Source
 In the folder above where the source and ```Dockerfile``` are, run the command ```sudo docker build {folder-name} -t {image-name}```.
 
-###Download from Repo
+### Download from Repo
 ```sudo docker pull jterhark/cs422-jterhark-hw4```
 
-###Running
+### Running
 To Start<br>
 ```sudo docker run jterhark/cs422-jterhark-hw4``` or whatever tag you chose when building.<br>
 Get IP
@@ -153,7 +153,7 @@ sudo docker inspect {container-id} | grep "IPAddress"
 Once you have the ip address, calls to the service can be made through postman using ```8080``` as the port. Ex ```172.17.0.1:8080\chess\newgame```.
 
 
-###Deploy to AWS ECS via Fargate
+### Deploy to AWS ECS via Fargate
 Images can be found in ```/img``` if they do not show up.
 If I can afford it, my chess VAP will be up at ```EC2Co-EcsEl-1DAQYZMXNBZSD-449354511.us-east-1.elb.amazonaws.com:8080/chess/newgame``` for testing until April 7, 2019. 
 
@@ -185,4 +185,4 @@ Go to load balancers in the left panel and scroll down to see the DNS name. This
 
 Requests can then be made using Postman.
 ![ten](img/10.png)
-##OSv + Capstan
+## OSv + Capstan
